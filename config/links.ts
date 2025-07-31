@@ -3,7 +3,7 @@ import { Instagram, Youtube, Github, Mail, Globe, Linkedin, MessageCircle } from
 export const profileConfig = {
   name: "Izzar Suly Nashrudin",
   title: "Creative Designer & Developer",
-  description: "Merancang visual. Menulis kode. Menyatukan imajinasi dan logika.",
+  description: "Merancang visual. Menulis kode. Menyatukan Ide.",
   avatar: "/profile.jpg?height=80&width=80",
   isOnline: true,
 }
