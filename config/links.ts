@@ -29,10 +29,19 @@ export const linksConfig = [
   },
   {
     id: 3,
-    title: "Minecraft",
-    description: "Gabung di dunia Minecraft saya, server pribadi terbuka!",
-    url: "#",
-    displayUrl: "mc.avezoor.my.id",
+    title: "Superlink",
+    description: "Kumpulan tautan pribadi",
+    url: "https://bio.avezoor.my.id",
+    displayUrl: "bio.avezoor.my.id",
+    icon: Globe,
+    gradient: "from-gray-800 to-gray-900",
+  },
+  {
+    id: 4,
+    title: "Website Kuliah Kerja Mahasiswa",
+    description: "Kenangan dan Dokumentasi Kuliah Kerja Mahasiswa (KKM)",
+    url: "https://kkm.avezoor.my.id",
+    displayUrl: "kkm.avezoor.my.id",
     icon: Globe,
     gradient: "from-gray-800 to-gray-900",
   }

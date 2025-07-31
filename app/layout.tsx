@@ -4,9 +4,8 @@ import { GeistMono } from 'geist/font/mono'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Link | Izzar Suly Nashrudin',
+  title: 'Superlink | Izzar Suly Nashrudin',
   description: 'Created by Avezoor',
-  generator: 'avz.dev',
 }
 
 export default function RootLayout({
