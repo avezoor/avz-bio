@@ -11,6 +11,15 @@ export const profileConfig = {
 export const linksConfig = [
   {
     id: 1,
+    title: "Superlink",
+    description: "Kumpulan tautan pribadi",
+    url: "https://bio.avezoor.my.id",
+    displayUrl: "bio.avezoor.my.id",
+    icon: Globe,
+    gradient: "from-gray-800 to-gray-900",
+  },
+  {
+    id: 2,
     title: "My Portofolio",
     description: "Portofolio desain dan proyek digital terbaru saya",
     url: "https://avezoor.my.id",
@@ -19,20 +28,11 @@ export const linksConfig = [
     gradient: "from-gray-800 to-gray-900",
   },
   {
-    id: 2,
+    id: 3,
     title: "Meme Maker",
     description: "Buat meme teks sederhana, langsung dari browser",
     url: "https://meme.avezoor.my.id",
     displayUrl: "meme.avezoor.my.id",
-    icon: Globe,
-    gradient: "from-gray-800 to-gray-900",
-  },
-  {
-    id: 3,
-    title: "Superlink",
-    description: "Kumpulan tautan pribadi",
-    url: "https://bio.avezoor.my.id",
-    displayUrl: "bio.avezoor.my.id",
     icon: Globe,
     gradient: "from-gray-800 to-gray-900",
   },
