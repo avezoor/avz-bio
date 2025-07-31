@@ -39,7 +39,7 @@ export const linksConfig = [
   {
     id: 4,
     title: "Website Kuliah Kerja Mahasiswa",
-    description: "Kenangan dan Dokumentasi Kuliah Kerja Mahasiswa (KKM)",
+    description: "Kenangan dan dokumentasi Kuliah Kerja Mahasiswa (KKM)",
     url: "https://kkm.avezoor.my.id",
     displayUrl: "kkm.avezoor.my.id",
     icon: Globe,
